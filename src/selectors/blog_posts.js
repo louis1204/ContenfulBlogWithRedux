@@ -1,0 +1,1 @@
+export const getAllBlogPostsByPath = state => state.entities.allBlogPostsByPath;
